@@ -6,3 +6,5 @@ movies
 s3ven
 inception
 nasferato
+series
+severance
